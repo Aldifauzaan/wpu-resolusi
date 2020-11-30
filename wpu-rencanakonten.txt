@@ -8,3 +8,4 @@ RENCANA KONTEN WPU
   - Programmer
   - Web designer
 5. Fundamental
+6. Kompleks

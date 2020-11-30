@@ -1,8 +1,9 @@
 RENCANA KONTEN WPU
-1. TUTORIAL
-2. C
+2. C/C#
 3. PHYTON
   - Dasar
+  - Laravel
 4. INTERVIEW
   - Programmer
 5. Fundamental
+6. Kompleks

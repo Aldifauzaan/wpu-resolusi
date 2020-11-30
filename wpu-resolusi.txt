@@ -3,4 +3,4 @@ WPU RESOLUSI
 - Web Development
 - Software
 - Security
-- Kolaborasi
+- Membuat konten

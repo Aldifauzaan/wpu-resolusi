@@ -3,6 +3,8 @@ RENCANA KONTEN WPU
 2. C
 3. PHYTON
   - Dasar
+  - Struktur data
 4. INTERVIEW
   - Programmer
+  - Web designer
 5. Fundamental

@@ -2,3 +2,5 @@ WPU RESOLUSI
 - Programming
 - Web Development
 - Software
+- Security
+- Kolaborasi

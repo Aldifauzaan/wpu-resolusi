@@ -5,3 +5,4 @@ RENCANA KONTEN WPU
   - Dasar
 4. INTERVIEW
   - Programmer
+5. Fundamental

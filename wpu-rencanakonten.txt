@@ -1,8 +1,10 @@
 RENCANA KONTEN WPU
 1. TUTORIAL
-2. C
+2. C/C++
 3. PHYTON
   - Dasar
+  - Struktur data
 4. INTERVIEW
   - Programmer
+  - Web designer
 5. Fundamental
